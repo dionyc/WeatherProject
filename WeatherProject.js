@@ -53,7 +53,7 @@ var WeatherProject = React.createClass({
           <View style={styles.overlay}>
            <View style={styles.row}>
              <Text style={styles.mainText}>
-               Current weather for 
+               Current Weather For 
              </Text>
              <View style={styles.zipContainer}>
                <TextInput
